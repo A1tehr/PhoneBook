@@ -1,6 +1,6 @@
-# Prerequisites
 /bin
 /obj
+# Prerequisites
 *.d
 
 # Object files
